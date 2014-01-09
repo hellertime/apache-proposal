@@ -110,14 +110,30 @@ JIRA: Parquet (PARQUET)
 
 ## Initial Committers
 
-* Julien Le Dem <julien@twitter.com>
+* Aniket Mokashi
+* Brock Noland
 * Dmitriy Ryaboy <dmitriy@twitter.com>
+* Julien Le Dem <julien@twitter.com>
+* Marcel Kornacker 
+* Mickael Lacour
+* Nong Li 
+* Tianshuo Deng
+* Tom White
+* Remy Pecqueur
 * TODO
 
 ## Affiliations
 
+* Aniket Mokashi - Twitter
+* Brock Noland - Cloudera
 * Julien Le Dem - Twitter
 * Dmitriy Ryaboy - Twitter
+* Marcel Kornacker - Cloudera
+* Mickael Lacour - Criteo
+* Nong Li - Cloudera
+* Tianshuo Deng - Twitter
+* Tom White - Cloudera
+* Remy Pecqueur - Criteo
 * TODO
 
 ## Sponsors
