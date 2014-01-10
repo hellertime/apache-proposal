@@ -28,7 +28,7 @@ Furthermore, the rapid growth of Parquet community is empowered by open source. 
 
 ## Current Status
 
-Parquet has undergone [5 major releases](https://github.com/Parquet/parquet-format/releases). Parquet is being used in production by [many organizations](https://github.com/Parquet/parquet-mr/blob/master/PoweredBy.md). The Parquet source is currently hosted at github.com, which will seed the Apache git repository.
+Parquet has undergone [2 major releases](https://github.com/Parquet/parquet-format/releases) of the core format and [22 releases](https://github.com/Parquet/parquet-mr/releases) of the supporting set of Java libraries. Parquet is being used in production by [many organizations](https://github.com/Parquet/parquet-mr/blob/master/PoweredBy.md). The Parquet source is currently hosted at github.com, which will seed the Apache git repository.
 
 ### Meritocracy
 
@@ -40,33 +40,34 @@ There is a large need for an advanced columnar storage format for Hadoop. Parque
 
 ### Core Developers
 
-Parquet was [initially developed](https://blog.twitter.com/2013/announcing-parquet-10-columnar-storage-for-hadoop) as a collaboration between Twitter and Cloudera.
+Parquet was [initially developed](https://blog.twitter.com/2013/announcing-parquet-10-columnar-storage-for-hadoop) as a collaboration between Twitter, Cloudera and Criteo. 
 
 ### Alignment
 
-We believe that having Parquet at Apache will help further the growth of the big-data community. The alignment is also beneficial to other Apache communities (such as Hadoop, Hive, Avro).
+We believe that having Parquet at Apache will help further the growth of the big-data community, as it will encourage cooperation within the greater ecosystem of projects spawned by Apache Hadoop. The alignment is also beneficial to other Apache communities (such as Hadoop, Hive, Avro).
 
 ## Known Risks
 
 ### Orphaned Products
 
-The risk of the Parquet project being abandoned is minimal. There are many organizations using Parquet in production, including Twitter, Cloudera and [Salesforce](http://blog.cloudera.com/blog/2013/10/parquet-at-salesforce-com/). 
+The risk of the Parquet project being abandoned is minimal. There are many organizations using Parquet in production, including Twitter, Cloudera, Stripe, and [Salesforce](http://blog.cloudera.com/blog/2013/10/parquet-at-salesforce-com/). 
 
 ### Inexperience with Open Source
 
 Parquet has existed as a healthy open source for one year. During that time, we have curated an open-source community successfully, attracting over [30 contributors](https://github.com/Parquet/parquet-mr/graphs/contributors) from a diverse group of companies.
+Several of the core contributors to the project are deeply familiar with OSS and Apache specifically: Julien Le Dem is the current PMC Chair for Apache Pig, and Dmitriy Ryaboy, Aniket Mokashi, and Jonathan Coveney are also Apache Pig committers with contributions to several other Apache projects. Todd Lipcon and Tom White are committers to Apache Hadoop and multiple other related projects. Brock Noland is a Hive committer.
 
 ### Homogenous Developers
 
-The initial committers are employed by large companies (including Twitter and Cloudera). Parquet has an active community of developers, and we are committed to recruiting additional committers based on their contributions to the project.
+The initial committers come from a number of companies and countries. Parquet has an active community of developers, and we are committed to recruiting additional committers based on their contributions to the project. The java library component alone has contributions from 31 individual github accounts, 14 of which contributed over 1000 lines of code.
 
 ### Reliance on Salaried Developers
 
-It is expected that Parquet development will occur on both salaried time and on volunteer time, after hours. The majority of initial committers are paid by their employer to contribute to this project. However, they are all passionate about the project, and we are confident that the project will continue even if no salaried developers contribute to the project. We are committed to recruiting additional committers including non-salaried developers.
+It is expected that Parquet development will occur on both salaried time and on volunteer time, after hours. The majority of initial committers are paid by their employers to contribute to this project. However, they are all passionate about the project, and we are confident that the project will continue even if no salaried developers contribute to the project. As evidence of this statement, we present the [GitHub "punchcard"](https://github.com/Parquet/parquet-mr/graphs/punch-card) showing that a lot of activity happens on weekends. We are committed to recruiting additional committers including non-salaried developers. 
 
 ### Relationships with Other Apache Products
 
-As mentioned in the Alignment section, Parquet is closely integrated with Hadoop, Zookeeper, Thrift, YARN and Mesos in a numerous ways. We look forward to collaborating with those communities, as well as other Apache communities (including Apache S4 which focuses on stateful low-latency processing).
+As mentioned in the Alignment section, Parquet is closely related to Hadoop, Pig, Avro, Thrift, YARN and Mesos in a numerous ways. We look forward to collaborating with those communities, as well as other Apache communities (including Apache S4 which focuses on stateful low-latency processing).
 
 ### An Excessive Fascination with the Apache Brand
 
@@ -87,7 +88,19 @@ This is the exact codebase that we would migrate to the Apache foundation.
 
 ## External Dependencies
 
-TODO
+```
+Project | License
+Junit | EPL
+Apache Commons | APL 2
+Apache Thrift | APL 2
+Apache Maven | APL 2
+Apache Avro | APL 2
+Apache Hadoop | APL 2
+Google Guava | APL 2
+```
+More TODO
+
+
 
 ## Cryptography
 
