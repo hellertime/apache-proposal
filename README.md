@@ -125,39 +125,47 @@ JIRA: Parquet (PARQUET)
 
 * Aniket Mokashi
 * Brock Noland
+* Chris Aniszczyk
 * Dmitriy Ryaboy <dmitriy@twitter.com>
-* Julien Le Dem <julien@twitter.com>
+* Jake Farrell
+* Julien Le Dem <julien@apache.org>
+* Lukas Nalezenec
 * Marcel Kornacker 
 * Mickael Lacour
 * Nong Li 
+* Remy Pecqueur
 * Tianshuo Deng
 * Tom White
-* Remy Pecqueur
 * TODO
 
 ## Affiliations
 
 * Aniket Mokashi - Twitter
 * Brock Noland - Cloudera
-* Julien Le Dem - Twitter
+* Chris Aniszczyk - Twitter
 * Dmitriy Ryaboy - Twitter
+* Jake Farrell
+* Julien Le Dem - Twitter
+* Lukas Nalezenec
 * Marcel Kornacker - Cloudera
 * Mickael Lacour - Criteo
 * Nong Li - Cloudera
+* Remy Pecqueur - Criteo
 * Tianshuo Deng - Twitter
 * Tom White - Cloudera
-* Remy Pecqueur - Criteo
 * TODO
 
 ## Sponsors
 
 ### Champion
 
-TODO
+* Todd Lipcon
 
 ### Nominated Mentors
 
-TODO
+* Tom White
+* Chris Mattmann
+* Jake Farrell
 
 ### Sponsoring Entity
 
