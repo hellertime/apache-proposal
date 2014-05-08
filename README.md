@@ -153,11 +153,13 @@ JIRA: Parquet (PARQUET)
 
 ### Champion
 
-TODO
+* Todd Lipcon
 
 ### Nominated Mentors
 
-TODO
+* Tom White
+* Chris Mattmann
+* Jake Farrell
 
 ### Sponsoring Entity
 
