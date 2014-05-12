@@ -82,7 +82,7 @@ Documentation is currently located as README markdown files:
 
 ## Source and Intellectual Property Submission Plan
 
-The Parquet codebase is currently hosted on Github: https://github.com/ParquetFormat. 
+The Parquet codebase is currently hosted on Github: https://github.com/Parquet. 
 
 This is the exact codebase that we would migrate to the Apache foundation.
 
